@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "447084586337",
+    "firebase_url": "https://fir-storage-162cd.firebaseio.com",
+    "project_id": "fir-storage-162cd",
+    "storage_bucket": "fir-storage-162cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447084586337:android:514eb28a48bbc5ef",
+        "android_client_info": {
+          "package_name": "com.example.mina.firebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447084586337-ik3m1ia0ec56faknmhkh7dgn753r7kdt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mina.firebasestorage",
+            "certificate_hash": "23dbf2a85f80bc7f4b79ba8c8003750762afbf28"
+          }
+        },
+        {
+          "client_id": "447084586337-m75tf70psti7e904o2a97f994a0720ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7XsscGfdE6RydOvzxGgZn71yCFygT5Lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447084586337-m75tf70psti7e904o2a97f994a0720ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447084586337:android:b57229e893be8887",
+        "android_client_info": {
+          "package_name": "com.example.mina.testsoundfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447084586337-jdmk8pkoicnok2ni2nh8ssafdtg0m3hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mina.testsoundfirebase",
+            "certificate_hash": "23dbf2a85f80bc7f4b79ba8c8003750762afbf28"
+          }
+        },
+        {
+          "client_id": "447084586337-m75tf70psti7e904o2a97f994a0720ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7XsscGfdE6RydOvzxGgZn71yCFygT5Lk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447084586337-m75tf70psti7e904o2a97f994a0720ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
